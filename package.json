@@ -1,0 +1,19 @@
+{
+  "name": "ramwin-vue",
+  "version": "0.0.1",
+  "description": "test publish a vue package",
+  "main": "src/my-component.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramwin/ramwin-vue.git"
+  },
+  "author": "Xiang Wang <ramwin@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramwin/ramwin-vue/issues"
+  },
+  "homepage": "https://github.com/ramwin/ramwin-vue#readme"
+}
