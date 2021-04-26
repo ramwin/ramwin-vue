@@ -1,6 +1,6 @@
 {
   "name": "ramwin-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test publish a vue package",
   "main": "src/my-component.vue",
   "scripts": {
